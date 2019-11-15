@@ -32,9 +32,27 @@ html, body {
 
 .site-main .projects {
   margin-top: 10rem;
-  background-color: #73b9b9;
+  
 }
 
 .site-main .contact {
   margin-top: 10rem;
+}
+
+footer {
+  padding: 20px;
+  background-color: lightgray;
+}
+
+.contact ul {
+  list-style-type: none;
+}
+
+.contact ul li {
+  display: inline-block;
+}
+
+.btn-social-icon a {
+  width: 200px;
+  height: 200px;
 }
