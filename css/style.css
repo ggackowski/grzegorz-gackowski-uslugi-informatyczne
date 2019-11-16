@@ -35,6 +35,10 @@ html, body {
   
 }
 
+.site-main .projects .row > div {
+  margin: 20px 0;
+}
+
 .site-main .contact {
   margin-top: 10rem;
 }
@@ -44,15 +48,6 @@ footer {
   background-color: lightgray;
 }
 
-.contact ul {
-  list-style-type: none;
-}
-
-.contact ul li {
-  display: inline-block;
-}
-
-.btn-social-icon a {
-  width: 200px;
-  height: 200px;
+.contact {
+  margin: 20px 0;
 }
