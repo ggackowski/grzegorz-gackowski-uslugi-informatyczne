@@ -51,3 +51,25 @@ footer {
 .contact {
   margin: 20px 0;
 }
+
+.carousel-control-prev-icon
+{
+  background-color: black;
+}
+.carousel-control-next-icon 
+{
+  background-color: black;
+}
+
+
+.fa-gitlab {
+  color: orange;
+}
+
+.fa-facebook {
+  color: navy;
+}
+
+.fa-linkedin {
+  color: lightblue;
+}
